@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "backend"
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Deque",
+			"agpl",
+			"cod",
+			"cod eths",
+			"esnext",
+			"eths",
+			"videths"
+		],
+		"deno.enable": true,
+		"deno.lint": true,
+		"deno.import_intellisense_origins": {
+			"https://deno.land": true
+		}
+	}
+}

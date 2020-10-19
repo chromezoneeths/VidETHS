@@ -1,0 +1,4 @@
+FROM hayd/deno as build
+RUN deno install -qAf --unstable https://deno.land/x/denon@2.4.4/denon.ts
+WORKDIR /app
+CMD denon run --allow-env --allow-net main.ts

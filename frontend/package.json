@@ -1,0 +1,26 @@
+{
+  "name": "videths-frontend",
+  "version": "0.0.1",
+  "description": "frontend for videths",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chromezoneeths/VidETHS.git"
+  },
+  "author": "CodETHS Club",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/chromezoneeths/VidETHS/issues"
+  },
+  "homepage": "https://github.com/chromezoneeths/VidETHS#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.1.2",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
